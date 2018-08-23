@@ -4,10 +4,10 @@ Data files used for analysis in "Lung microbiota contribute to pulmonary inflamm
 
 Directory: /01_acute_bleomycin
 
-	hyperoxia.0.03.cons.taxonomy.txt - taxonomy classification file
-	hyperoxia.0.03.rep.fasta.txt - OTU representative sequences
-	hyperoxia.metadata.txt - experimental metadata
-	hyperoxia.shared.txt - raw OTU counts
+	bleomycin.0.03.rep.fasta - OTU representative sequences
+	bleomycin.cons.taxonomy - taxonomy classification file
+	bleomycin.shared.txt - raw OTU counts
+	metadata.txt - experimental metadata
 
 	Raw sequences available at https://www.dropbox.com/sh/b11yz565qgvgtlz/AACi37Tih2-XAID5g9j2rn0Ea?dl=0
 
