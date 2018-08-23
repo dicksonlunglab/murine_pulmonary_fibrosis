@@ -12,9 +12,8 @@ Directory: /01_acute_bleomycin
 	Raw sequences available at https://www.dropbox.com/sh/b11yz565qgvgtlz/AACi37Tih2-XAID5g9j2rn0Ea?dl=0
 
 Directory: /02_extended_bleomycin
-  hyperoxia_heterogeneity.0.03.cons.taxonomy.txt - taxonomy classification file
-	hyperoxia_heterogeneity.shared.txt - raw OTU counts
-	hyperoxia_heterogeneity.0.03.rep.fasta.txt - OTU representative sequences
-	hyperoxia_heterogeneity.metadata - experimental metadata
+  	bleomycin.0.03.cons.taxonomy.txt - taxonomy classification file
+	bleomycin.shared.txt - raw OTU counts
+	metadata.txt - experimental metadata
 
 	Raw sequences available at https://www.dropbox.com/sh/bqqwpi2jeexixyt/AACHDRm1GbsUVugXdgqLxtyea?dl=0
