@@ -12,6 +12,7 @@ Directory: /01_acute_bleomycin
 	Raw sequences available at https://www.dropbox.com/sh/b11yz565qgvgtlz/AACi37Tih2-XAID5g9j2rn0Ea?dl=0
 
 Directory: /02_extended_bleomycin
+
   	bleomycin.0.03.cons.taxonomy.txt - taxonomy classification file
 	bleomycin.shared.txt - raw OTU counts
 	metadata.txt - experimental metadata
